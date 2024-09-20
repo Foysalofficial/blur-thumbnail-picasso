@@ -20,13 +20,13 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Foysalofficial:blur-thumbnail-picasso:16.0'
+    implementation 'com.github.Foysalofficial:blur-thumbnail-picasso:17.0'
 }
 
 ## For Updated Android Studio
 
 dependencies {
-    implementation ("com.github.Foysalofficial:blur-thumbnail-picasso:16.0")
+    implementation ("com.github.Foysalofficial:blur-thumbnail-picasso:17.0")
 }
 
 ```
